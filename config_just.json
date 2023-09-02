@@ -1,5 +1,7 @@
 [
   {
+    
+    LOCAL_URL_CONFIG: "localhost",
     URL_API_NEWS: "", 
     URL_API_ONLINE: "", 
     URL_CACHE: "", 
