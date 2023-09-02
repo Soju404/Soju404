@@ -1,5 +1,6 @@
-{  
-   "LOCAL_URL_CONFIG": {
+[
+  {  
+    "LOCAL_URL_CONFIG": {
       "URL_API_NEWS": "",     
       "URL_API_ONLINE": "", 
       "URL_CACHE": "", 
@@ -8,5 +9,6 @@
       "URL_SUPPORT": "", 
       "VERSION_LAUNCHER": 19,
       "VERSION_UPDATE_ARCHIVE": 1
-   }
-}
+    }
+  }
+]
