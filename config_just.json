@@ -1,7 +1,7 @@
 {  
     "LOCAL_URL_CONFIG": "https://raw.githubusercontent.com/Soju404/Soju404/soju404", 
-    "URL_API_NEWS": "",     
-    "URL_API_ONLINE": "", 
+    "URL_API_NEWS": "https://raw.githubusercontent.com/Soju404/Soju404/soju404/news.json",     
+    "URL_API_ONLINE": "https://raw.githubusercontent.com/Soju404/Soju404/soju404/online.json", 
     "URL_CACHE": "", 
     "URL_DATA": "", 
     "URL_LAUNCHER": "", 
