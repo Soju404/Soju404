@@ -1,4 +1,5 @@
-{  
+[
+  {  
     "LOCAL_URL_CONFIG": 
     [
       {
@@ -12,4 +13,5 @@
         "VERSION_UPDATE_ARCHIVE": 1
       }
     ]
-}
+  }
+]
