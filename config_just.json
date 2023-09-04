@@ -2,10 +2,10 @@
     {
       "URL_API_NEWS": "https://raw.githubusercontent.com/Soju404/Soju404/soju404/news.json",     
       "URL_API_ONLINE": "https://raw.githubusercontent.com/Soju404/Soju404/soju404/online.json", 
-      "URL_CACHE": "", 
-      "URL_DATA": "", 
-      "URL_LAUNCHER": "", 
-      "URL_SUPPORT": "", 
+      "URL_CACHE": "https://discord.gg/CZVmpBFwdS", 
+      "URL_DATA": "https://discord.gg/CZVmpBFwdS", 
+      "URL_LAUNCHER": "https://discord.gg/CZVmpBFwdS", 
+      "URL_SUPPORT": "https://discord.gg/CZVmpBFwdS", 
       "VERSION_LAUNCHER": 20,
       "VERSION_UPDATE_ARCHIVE": 1
     }
