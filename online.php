@@ -1,0 +1,1 @@
+[{"showOne":true,"numberOne":1,"bonusOne":true,"nameOne":"Realized","colorOne":"fff1c127","minOne":0,"maxOne":1000,"showTwo":true,"numberTwo":2,"bonusTwo":true,"nameTwo":"Realized","colorTwo":"fff1c127","minTwo":0,"maxTwo":1000}]
