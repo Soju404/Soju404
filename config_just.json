@@ -1,5 +1,5 @@
 {
-  "URL_API_NEWS": "https://raw.githubusercontent.com/Soju404/Soju404/soju404/news.json",     
+  "URL_API_NEWS": "https://raw.githubusercontent.com/Soju404/Soju404/soju404/news.php",     
   "URL_API_ONLINE": "https://raw.githubusercontent.com/Soju404/Soju404/soju404/online.php",      
   "URL_CACHE": "https://discord.gg/CZVmpBFwdS", 
   "URL_DATA": "https://discord.gg/CZVmpBFwdS", 
