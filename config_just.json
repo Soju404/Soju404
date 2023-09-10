@@ -1,16 +1,15 @@
 {
   "URL_LAUNCHER":"https://justrp.cdnreact.xyz/files3/release-0.30-florida-0.30.apk",
-	"URL_CACHE":[
-		"http://a0783687.xsph.ru/files.7z.001",
-		"http://a0783687.xsph.ru/files.7z.002",
-		"http://a0783687.xsph.ru/files.7z.003",
-		"http://a0783687.xsph.ru/files.7z.004"
-		
-	],
+  "URL_CACHE":[
+	"http://a0783687.xsph.ru/files.7z.001",
+	"http://a0783687.xsph.ru/files.7z.002",
+	"http://a0783687.xsph.ru/files.7z.003",
+	"http://a0783687.xsph.ru/files.7z.004"
+  ],
   "URL_API_NEWS": "https://raw.githubusercontent.com/Soju404/Soju404/soju404/news.json",     
   "URL_API_ONLINE": "https://raw.githubusercontent.com/Soju404/Soju404/soju404/online.php",       
   "URL_DATA": "https://discord.gg/CZVmpBFwdS",  
   "URL_SUPPORT": "https://vk.me/android_client", 
-  "VERSION_LAUNCHER": 20,
+  "VERSION_LAUNCHER": 19,
   "VERSION_UPDATE_ARCHIVE": "2.50"
 }
